@@ -2,7 +2,6 @@
 ###  [документация](localhost/swagger-ui.html/)
 ### как запустить?
 ```
-# git clone https://github.com/Praepost/avenues.git
 # mvn clean package
 ```
 ## Описание
